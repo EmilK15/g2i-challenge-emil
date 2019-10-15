@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: $base-color;
+    min-height: 100vh;
+}
+
+.btn-container {
+    display: flex;
+}
+
+.home-text {
+    margin-top: 10px;
+}

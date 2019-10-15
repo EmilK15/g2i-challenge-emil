@@ -1,0 +1,22 @@
+.difficulty-btn {
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.begin-btn, .replay-btn {
+    color: $secondary-color;
+    width: 340px;
+    margin-top: 20px;
+}
+
+.true-btn {
+    width: 150px;
+}
+
+.false-btn {
+    margin-left: 20px;
+    width: 150px;
+}
